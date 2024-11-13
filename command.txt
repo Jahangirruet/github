@@ -1,5 +1,13 @@
 git init 
 git add . 
-git file_name
+git add file_name
 git status
 git commit -m "version 1.0"
+git push origin main
+
+if any change a file_name
+
+git add file_name
+git commit -m "version 1.1"
+git push
+
